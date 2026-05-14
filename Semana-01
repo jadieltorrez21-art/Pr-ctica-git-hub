@@ -1,0 +1,5 @@
+Algoritmo Saludo_Usuario
+Escribir"Ingrese su nombre";
+Leer nombre
+Escribir"Hola",nombre,Bienvenido a la Programación";
+FinAlgoritmo
