@@ -1,7 +1,9 @@
 # Práctica GitHub
 
 ## Autor
-Heykel Jadiel Torrez Lopez
+•Heykel Jadiel Torrez Lopez
+•Jackser Osmar Vega Arias 
+•Franklin Josué Barrera Arias
 
 ## Carrera
 Ingeniería en Sistemas
