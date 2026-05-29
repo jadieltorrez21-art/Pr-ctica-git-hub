@@ -31,3 +31,6 @@ Aplicar el uso básico de GitHub mediante repositorios, commits, ramas y Pull Re
 
 ## Herramientas utilizadas
 - GitHub Mobile
+
+  #Nota
+ . Repositorio creado para practica de GitHub
