@@ -4,7 +4,7 @@
 •Heykel Jadiel Torrez Lopez
 •Jackser Osmar Vega Arias 
 •Franklin Josué Barrera Arias
-
+•José Luis Martinez Ríos
 ## Carrera
 Ingeniería en Sistemas
 
